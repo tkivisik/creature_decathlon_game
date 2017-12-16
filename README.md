@@ -1,1 +1,3 @@
-# creature_decathlon_game
+# Creature Decathlon
+
+A game for creatures
